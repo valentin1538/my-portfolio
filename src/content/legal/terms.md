@@ -1,27 +1,22 @@
 ---
-title: "Terms of Use"
-date: "03/07/2024"
+title: "Conditions Générales d'Utilisation"
+date: "03/31/2025"
 ---
 
-Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the [Your Website URL] website (the "Service") operated by [Your Company Name] ("us", "we", or "our").
+#### Acceptation des CGU
+Ces conditions régissent l’utilisation de ce site web. En accédant à ce site, vous acceptez pleinement et sans réserve les présentes conditions générales d’utilisation.
 
-#### Agreement to Terms
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### Propriété intellectuelle
+Les contenus (textes, images, vidéos, etc.) présents sur ce site sont protégés par les lois en vigueur en matière de propriété intellectuelle et sont la propriété exclusive de Valentin Prevot.
+Toute reproduction, modification ou diffusion de ces contenus sans autorisation préalable est strictement interdite.
 
-#### Intellectual Property Rights
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### Utilisation du site
+- Vous vous engagez à utiliser ce site à des fins personnelles et non commerciales.
 
-#### User Representations
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+- Il est interdit d’utiliser ce site pour des activités frauduleuses ou illégales.
 
-#### Links to Other Websites
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### Limitation de responsabilité
+Ce site est fourni "en l'état" et [Votre Nom/Entreprise] décline toute responsabilité pour d’éventuelles erreurs, interruptions ou dommages résultant de l'utilisation du site.
 
-#### Termination
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
-
-#### Governing Law
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
-
-#### Changes to These Terms of Use
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### Modifications des conditions générales
+Valentin Prevot se réserve le droit de modifier ces conditions à tout moment. Les changements seront mis à jour sur cette même page.

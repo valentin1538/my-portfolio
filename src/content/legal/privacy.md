@@ -1,28 +1,35 @@
 ---
-title: "Privacy Policy"
-date: "03/07/2024"
+title: "Politique de Confidentialité"
+date: "03/31/2025"
 ---
 
-This Privacy Policy governs the manner in which [Your Company Name] collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Website URL] website ("Site"). This privacy policy applies to the Site and all products and services offered by [Your Company Name].
+#### Collecte des données
+Nous collectons les informations suivantes via ce site :
 
-#### Personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+    - Nom, adresse e-mail (via les formulaires de contact).
 
-#### Non-personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+Ces données sont utilisées uniquement dans le cadre des échanges avec vous, pour répondre à vos messages ou questions.
 
-#### Web browser cookies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### Utilisation des cookies
+Ce site utilise des cookies pour :
 
-#### How we use collected information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+- Analyser le trafic (via Google Analytics ou autres outils de suivi).
 
-#### How we protect your information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+- Améliorer l’expérience utilisateur sur le site.
+
+Vous avez la possibilité de désactiver les cookies via les paramètres de votre navigateur.
 
 #### Sharing your personal information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+Vos données ne sont jamais vendues ni partagées avec des tiers, sauf dans le cadre de la gestion technique du site (hébergement, maintenance).
 
-#### Changes to this privacy policy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### Protection des données personnelles
+Nous mettons en œuvre des mesures de sécurité adaptées pour prévenir l’accès non autorisé ou la divulgation de vos informations personnelles.
+
+#### Vos droits
+Conformément à la loi "Informatique et Libertés" et au RGPD, vous avez le droit de :
+
+Accéder à vos données personnelles,
+Demander leur rectification ou suppression,
+Vous opposer au traitement de vos données.
+Pour exercer ces droits, contactez-nous à [votre e-mail].
 

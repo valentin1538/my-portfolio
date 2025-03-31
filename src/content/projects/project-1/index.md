@@ -1,16 +1,22 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "Solencia Mobile"
+summary: "Solencia Mobile est une application mobile d'aide à domicile."
+date: "Mar 31 2025"
 draft: false
 tags:
-- Astro
-- Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- React Native
+- React Navigation
+- Paper
+- Expo
+status: "en cours"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Solencia est une solution numérique complète conçue pour faciliter la gestion des services d’aide à domicile, en connectant clients, intervenants et administrateurs.
+
+L’application mobile offre une expérience utilisateur fluide avec des fonctionnalités telles que :
+
+- Gestion des comptes (inscription, connexion, personnalisation).
+- Consultation et mise à jour des plannings d’interventions.
+- Notifications push en temps réel (rappels, modifications).
+- Consultation d’interventions passées et visualisation des factures (PDF).
+- Interface de messagerie intégrée pour une communication rapide.

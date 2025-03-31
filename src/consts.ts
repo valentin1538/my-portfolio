@@ -2,51 +2,41 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  TITLE: "vprevot.dev",
+  DESCRIPTION: "Bienvenue sur mon portfolio, l'endroit qui vous ferra en apprendre plus sur le développeur que je suis.",
+  AUTHOR: "PREVOT Valentin",
 }
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
-}
-
-// Blog Page
-export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  TITLE: "Expériences",
+  DESCRIPTION: "Entreprises dans lesquelles j'ai pu travailler.",
 }
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  TITLE: "Projets",
+  DESCRIPTION: "Les derniers projets sur lesquels j'ai pu travailler.",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  TITLE: "Recherche",
+  DESCRIPTION: "Rechercher un mot clé ou un terme qui vous intéresse.",
 }
 
 // Links
 export const LINKS: Links = [
   { 
-    TEXT: "Home", 
+    TEXT: "Accueil", 
     HREF: "/", 
   },
   { 
-    TEXT: "Work", 
+    TEXT: "Expériences", 
     HREF: "/work", 
   },
   { 
-    TEXT: "Blog", 
-    HREF: "/blog", 
-  },
-  { 
-    TEXT: "Projects", 
+    TEXT: "Projets", 
     HREF: "/projects", 
   },
 ]
@@ -56,26 +46,20 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    TEXT: "vprevot.dev@gmail.com",
+    HREF: "mailto:vprevot.dev@gmail.com",
   },
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "valentin1538",
+    HREF: "https://github.com/valentin1538"
   },
   { 
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "markhorn-dev",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
-  },
-  { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "markhorn_dev",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
+    TEXT: "Valentin Prevot",
+    HREF: "https://www.linkedin.com/in/valentin-prevot-57323726b/",
+  }
 ]
 
