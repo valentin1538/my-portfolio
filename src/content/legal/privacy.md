@@ -6,7 +6,7 @@ date: "03/31/2025"
 #### Collecte des données
 Nous collectons les informations suivantes via ce site :
 
-    - Nom, adresse e-mail (via les formulaires de contact).
+- Nom, adresse e-mail (via les formulaires de contact).
 
 Ces données sont utilisées uniquement dans le cadre des échanges avec vous, pour répondre à vos messages ou questions.
 

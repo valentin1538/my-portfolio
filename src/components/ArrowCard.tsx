@@ -17,7 +17,10 @@ export default function ArrowCard({entry, pill}: Props) {
             </div>
           }
           <div class="text-sm uppercase">
-            {formatDate(entry.data.date)}
+            {entry.data.status === "en cours" ? 
+              <span class="text-amber-600 dark:text-amber-400">EN COURS</span> :
+              formatDate(entry.data.date)
+            }
           </div>
         </div>
         <div class="font-semibold mt-3 text-black dark:text-white">
